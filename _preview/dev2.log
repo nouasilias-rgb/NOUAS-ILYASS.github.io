@@ -1,0 +1,20 @@
+
+> dev
+> webpack serve --config ./bundler/webpack.dev.js
+
+Project running at:
+  - [1m[34mhttp://192.168.11.103:8080[39m[22m
+  - [1m[34mhttp://localhost:8080[39m[22m
+(node:5448) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+<i> [webpack-dev-server] Project is running at:
+<i> [webpack-dev-server] Loopback: [36mhttp://localhost:8080/[39m
+<i> [webpack-dev-server] On Your Network (IPv4): [36mhttp://192.168.11.103:8080/[39m
+<i> [webpack-dev-server] On Your Network (IPv6): [36mhttp://[fe80::e89a:e84c:b9be:89c]:8080/[39m
+<i> [webpack-dev-server] Content not from webpack is served from '[36mC:\Users\amin1\Desktop\portfolio\Ramen-Shop-main\Ramen-Shop-main\static[39m' directory
+<i> [webpack-dev-middleware] wait until bundle finished: /
+<i> [webpack-dev-middleware] wait until bundle finished: /
+Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating
+webpack compiled [1m[32msuccessfully[39m[22m
